@@ -1,6 +1,6 @@
 # MRE HTML to TXT Converter
 
-This directory contains a **MediaTek Runtime Environment (MRE)** application for the **Nokia 225 (Nokia S30 / MediaTek chipset)**. It converts a selected EPUB input file into a UTF-8 plain text file. Converted file size limited phone memory.
+This directory contains a **MediaTek Runtime Environment (MRE)** application for the **Nokia 225 (Nokia S30 / MediaTek chipset)**. It converts a selected EPUB input file into a UTF-8 plain text file. Converted file size limited by phone memory.
 
 ## File
 
